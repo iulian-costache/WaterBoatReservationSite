@@ -1,0 +1,19 @@
+.bookinglist-container {
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.table-container {
+    width: 100%;
+    text-align: left;
+}
+
+.bookinglist-tabelheader {
+    font-weight: 700;
+}
+
+th, td, tr {
+    border: 1px solid black;
+}
+

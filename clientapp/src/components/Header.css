@@ -1,0 +1,32 @@
+.header-container {
+    text-align: center;
+}
+
+.header-logo{
+    color: #1089FF;
+}
+.header-announce {
+    display: inline-block;
+    font-size: 20px;
+    color: #1089FF;
+    padding: 20px 0px ;
+    font-weight: 700;
+}
+
+
+.header-nav-container {
+    background-color: #1089FF;
+    height: 25px;
+    color: white;
+    padding-top: 10px 20px;
+}
+
+.header-nav-links{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    padding: 5px 15px;
+}
+.header-nav-links:hover{
+    color:red;
+}

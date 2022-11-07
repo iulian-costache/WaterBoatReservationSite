@@ -1,0 +1,44 @@
+.footer-container {
+    text-align: center;
+    margin: auto;
+    max-width: 250px;
+    height: 100px;
+}
+
+.footer-mark {
+    float: left;
+    padding-top: 40px;
+    color: white;
+    font-size: 15px;
+}
+
+.footer-list ul {
+    text-decoration: none;
+}
+
+.footer-list {
+    color: white;
+    float: right;
+    list-style: none;
+}
+
+.footer-cont {
+    background-color: rgb(22, 22, 22);
+    width: 100%;
+}
+
+.footer-links {
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+}
+
+.footer-link-info {
+    font-size: 13px;
+    margin: 0 auto;
+}
+
+.footer-link-about {
+    margin-top: 10px;
+    margin: 0;
+}

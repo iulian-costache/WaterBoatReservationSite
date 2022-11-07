@@ -1,0 +1,34 @@
+.imageblock-container {
+    margin-top: 40px;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.imageblock-logo{
+    font-size: 45px;
+    color: #1089FF;
+}
+.imageblock-title {
+    font-size: 25px;
+    font-weight: normal;
+    margin: 0;
+}
+.imageblock-description {
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+}
+
+
+.container {
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.size-33 {
+    width: 31%;
+    margin-left: 1%;
+}
+ 
